@@ -5,4 +5,4 @@ This repository focuses on using signal processing techniques for temporal data.
 
 ## The data
 
-The data was obtained using SUS's DATASUS TABNET.
+The data was obtained using SUS's DATASUS TABNET and TABWin to process and generate the .csv files. It can be downloaded in this [google drive link](https://drive.google.com/file/d/1zzbynxZPNj2K8knnfCZcBCOFI4hCTeod/view?usp=sharing)
